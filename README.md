@@ -1,2 +1,2 @@
 # Zuri Task 
-Sign Up Form
+Registration Form
